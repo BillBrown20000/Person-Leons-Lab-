@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d65baf3-a1bd-4883-93df-154234b9fcd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aJI2Lpi2PMjVeAl9Cm11eCSnDW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhoneBookLab" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Person" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPeople.testFindById">
+    <configuration name="TestInstructor.testLecture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Person(Leons Lab)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Person" />
+      <option name="MAIN_CLASS_NAME" value="Person.TestInstructor" />
+      <option name="METHOD_NAME" value="testLecture" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInstructor.testTeach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Person(Leons Lab)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Person" />
+      <option name="MAIN_CLASS_NAME" value="Person.TestInstructor" />
+      <option name="METHOD_NAME" value="testTeach" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPeople.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Person(Leons Lab)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Person" />
+      <option name="MAIN_CLASS_NAME" value="Person.TestPeople" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPeople.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Person(Leons Lab)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Person" />
+      <option name="MAIN_CLASS_NAME" value="Person.TestPeople" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPeople.testRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Person(Leons Lab)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Person" />
+      <option name="MAIN_CLASS_NAME" value="Person.TestPeople" />
+      <option name="METHOD_NAME" value="testRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPeople.testFindById" />
+        <item itemvalue="JUnit.TestPeople.testRemove" />
+        <item itemvalue="JUnit.TestPeople.testAdd" />
+        <item itemvalue="JUnit.TestInstructor.testLecture" />
+        <item itemvalue="JUnit.TestInstructor.testTeach" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d65baf3-a1bd-4883-93df-154234b9fcd6" name="Default Changelist" comment="" />
+      <created>1586447061019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586447061019</updated>
+      <workItem from="1586447088674" duration="663000" />
+      <workItem from="1586448881205" duration="1668000" />
+      <workItem from="1586450717088" duration="1689000" />
+      <workItem from="1586452964147" duration="1001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1586644603887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586644603887" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1586803498696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586803498696" />
+    <state x="443" y="210" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586803387003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="210" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1586803387003" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1586551684337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586551684337" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586805241912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586805241912" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586805241912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586805241912" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586805241912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586805241912" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586805241912">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586805241912" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1586787790509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1586787790509" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586536317623">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586536317623" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586788560813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1586788560813" />
+  </component>
+</project>
